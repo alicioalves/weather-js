@@ -23,7 +23,6 @@ function init(resultFromServer){
 
         case 'Clouds':
             document.body.style.backgroundImage = 'url("./images/cloudy.jpg")';
-            console.log(resultFromServer);
             break;
 
         case 'Rain':
