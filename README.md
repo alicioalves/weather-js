@@ -2,7 +2,7 @@
 
 SPA desenvolvido em JavaScript nativo.
 
-O usuário informa uma cidade e o aplicativo retorna informações como temperatura, velocidade do vento e umidade.
+O usuário informa uma cidade e o aplicativo retorna informações como temperatura atual, descrição do clima e umidade.
 
 Versão mais atualizada usando React.js [aqui](https://github.com/alicioalves/weather-app)
 
