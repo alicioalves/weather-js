@@ -1,4 +1,13 @@
-Aplicativo feito em Javascript nativo que toma como input o nome de uma cidade e através de uma API retorna para o usuário valores como temperatura, descrição do tempo e umidade.
+#Weather App
+
+SPA desenvolvido em JavaScript nativo.
+
+O usuário informa uma cidade e o aplicativo retorna informações como temperatura, velocidade do vento e umidade.
+
+Versão mais atualizada usando React.js [aqui](https://github.com/alicioalves/weather-app)
+
+## API
+A API usada foi do [OpenWeather](https://openweathermap.org/)
 
 Demo
-https://weather-aa.netlify.app/
+Demo [aqui](https://weather-aa.netlify.app/)
