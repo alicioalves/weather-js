@@ -9,5 +9,5 @@ Versão mais atualizada usando React.js [aqui](https://github.com/alicioalves/we
 ## API
 A API usada foi do [OpenWeather](https://openweathermap.org/)
 
-Demo
+## Demo
 Demo [aqui](https://weather-aa.netlify.app/)
