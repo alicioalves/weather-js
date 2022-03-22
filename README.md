@@ -1,4 +1,4 @@
-#Weather App
+# Weather App
 
 SPA desenvolvido em JavaScript nativo.
 
